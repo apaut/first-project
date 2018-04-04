@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,user-scalable=no">
+<title>  CV Ademar Paut</title>
+</head>
+<body>
+	<svg width="400px"  height="400px" viewbox="40 485 1200 400 ">
+		 <image width="400px" height="400"  xlink:href="img/logoAP.svg"></image>
+	</svg>
+	<h1> Curriculum Vitae</h1>
+<h2>Datos Personales</h2>
+<p>Fecha de nacimiento: 30/09/1978<br></p>
+<p>Lugar de nacimiento: Heredia Costa Rica<br></p>
+
+</body>
+<footer>
+</footer>
+</html>
